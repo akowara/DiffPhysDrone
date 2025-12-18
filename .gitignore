@@ -1,0 +1,11 @@
+data/
+datasets/
+*.pt
+*.pth
+*.ckpt
+*.npz
+*.npy
+*.zip
+wandb/
+outputs/
+logs/
