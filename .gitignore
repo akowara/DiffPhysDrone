@@ -10,3 +10,6 @@ wandb/
 outputs/
 logs/
 high_speed_flight/
+swarm/
+runs/
+__pycache__/
